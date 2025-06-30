@@ -13,4 +13,4 @@ A simple and responsive web application that converts currency values using real
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
